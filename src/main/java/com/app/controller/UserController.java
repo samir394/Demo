@@ -22,6 +22,8 @@ import com.app.service.UserService;
 
 @RestController
 public class UserController {
+
+	
 	
 	@Autowired
 	private UserService usi;
